@@ -1,0 +1,24 @@
+{
+  "name": "STE POWER TECH - Electrical Contracting & Maintenance",
+  "short_name": "STE POWER TECH",
+  "description": "Professional electrical services, skilled electrician manpower supply, and dependable maintenance in Tiruchirappalli, Tamil Nadu.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101B32",
+  "theme_color": "#101B32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/logo/company-emblem.png",
+      "sizes": "590x570",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/logo/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+
